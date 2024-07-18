@@ -1,0 +1,61 @@
+{
+  "what": {
+    "id": "apa"
+  },
+  "apa": {
+    "id": "apa",
+    "en": "what"
+  },
+  "how": {
+    "id": "bagaimana",
+    "en": "how"
+  },
+  "when": {
+    "id": "kapan",
+    "en": "when"
+  },
+  "who": {
+    "id": "siapa",
+    "en": "who"
+  },
+  "why": {
+    "id": "kenapa",
+    "en": "why"
+  },
+  "where": {
+    "id": "dimana",
+    "en": "where"
+  },
+  "new": {
+    "id": "baru",
+    "en": "new"
+  },
+  "old": {
+    "id": "lama",
+    "en": "old"
+  },
+  "name": {
+    "id": "nama",
+    "en": "name"
+  },
+  "white": {
+    "id": "putih",
+    "en": "white"
+  },
+  "black": {
+    "id": "hitam",
+    "en": "black"
+  },
+  "yellow": {
+    "id": "kuning",
+    "en": "yellow"
+  },
+  "green": {
+    "id": "hijau",
+    "en": "green"
+  },
+  "red": {
+    "id": "merah",
+    "en": "red"
+  }
+}

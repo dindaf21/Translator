@@ -1,0 +1,14 @@
+{
+  "username": {
+    "en": "username",
+    "id": "nama user"
+  },
+  "password": {
+    "id": "kata sandi",
+    "en": "password"
+  },
+  "color": {
+    "id": "warna",
+    "en": "color"
+  }
+}
